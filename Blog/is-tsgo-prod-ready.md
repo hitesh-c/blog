@@ -1,10 +1,13 @@
 # Is TypeScript-Go Production Ready? 
 
-![alt text](image.png)
+![TsGo](https://github.com/user-attachments/assets/d691396d-e39e-4ba3-a1c2-e962ab51e804)
+
 
 `The Future of Fast, Native TypeScript Compilation`
 
-![image](https://github.com/user-attachments/assets/aaced2d4-b94e-430d-a7c8-9dedca10b85a)
+![Read Blog](https://github.com/user-attachments/assets/aaced2d4-b94e-430d-a7c8-9dedca10b85a)
+
+![Read Blog](http://blog.hiteshlabs.com/2025/03/exciting-developments-in-typescript-go.html)
 
 
 The TypeScript community is abuzz with one of its boldest experiments yet: **rewriting the TypeScript compiler in Go**. If you’ve ever groaned at slow build times or memory-hungry processes, this project—housed at [github.com/microsoft/typescript-go](https://github.com/microsoft/typescript-go)—is set to change your workflow forever.
